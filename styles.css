@@ -1,0 +1,112 @@
+* {
+  color: black;
+}
+
+table, th, td {
+  border: 2px solid black;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+video {
+  width: 250px;
+  height: 250px;
+}
+
+.about-blog {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+.author {
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+.featured {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+footer {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+header {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige; 
+}
+
+.section {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+.bio {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+.skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding-left: 5px;
+   border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+.gk {
+   border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+article {
+   border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+
+.author img {
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+}
+
+.contacts img {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.Form {
+   border: 2px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: beige;
+}
+}
